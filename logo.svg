@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200">
+  <!-- Background circle -->
+  <circle cx="100" cy="100" r="90" fill="#1a2332"/>
+  <!-- Inner accent ring -->
+  <circle cx="100" cy="100" r="80" fill="none" stroke="#10b981" stroke-width="2" opacity="0.5"/>
+  <!-- Dollar sign path -->
+  <text x="100" y="125" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="90" font-weight="900" fill="#10b981">$</text>
+  <!-- Upward arrow behind dollar sign -->
+  <path d="M140 130 L140 65 L125 80" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+  <path d="M140 65 L155 80" stroke="#10b981" stroke-width="6" stroke-linecap="round" stroke-linejoin="round" fill="none" opacity="0.7"/>
+  <!-- Growth bar chart at bottom -->
+  <rect x="45" y="155" width="12" height="15" rx="2" fill="#10b981" opacity="0.4"/>
+  <rect x="62" y="148" width="12" height="22" rx="2" fill="#10b981" opacity="0.5"/>
+  <rect x="79" y="140" width="12" height="30" rx="2" fill="#10b981" opacity="0.6"/>
+  <rect x="96" y="130" width="12" height="40" rx="2" fill="#10b981" opacity="0.7"/>
+  <rect x="113" y="138" width="12" height="32" rx="2" fill="#10b981" opacity="0.8"/>
+  <rect x="130" y="128" width="12" height="42" rx="2" fill="#10b981" opacity="0.9"/>
+</svg>
