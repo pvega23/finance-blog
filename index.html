@@ -1,0 +1,36 @@
+---
+layout: default
+title: Home
+description: "Practical personal finance for beginners. Learn budgeting, saving, investing, credit building, and side hustles to build real wealth."
+---
+<div class="home">
+  <section class="hero">
+    <h1>Smart Money Path</h1>
+    <p>Practical personal finance for beginners. Budgeting, saving, investing, and side hustles to help you build real wealth step by step.</p>
+  </section>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+    <li class="post-list-item">
+      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+      <div class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time>
+        {% if post.categories %}
+        <span class="post-categories">
+          &middot;
+          {% for cat in post.categories %}{{ cat }}{% unless forloop.last %}, {% endunless %}{% endfor %}
+        </span>
+        {% endif %}
+        {% if post.reading_time %}
+        <span class="reading-time">&middot; {{ post.reading_time }} min read</span>
+        {% endif %}
+      </div>
+      {% if post.description %}
+      <p class="post-excerpt">{{ post.description }}</p>
+      {% else %}
+      <p class="post-excerpt">{{ post.excerpt | strip_html | truncate: 160 }}</p>
+      {% endif %}
+    </li>
+    {% endfor %}
+  </ul>
+</div>

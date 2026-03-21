@@ -1,0 +1,241 @@
+{
+  "amazon_tag": "smartmoneypath-20",
+  "credit_cards": [
+    {
+      "name": "Chase Freedom Unlimited",
+      "url": "https://www.chase.com/personal/credit-cards/freedom/unlimited?CELL=YOUR_AFFILIATE_ID",
+      "commission": "$50-150 per approved application",
+      "category": "credit-cards"
+    },
+    {
+      "name": "Discover it Cash Back",
+      "url": "https://www.discover.com/credit-cards/cash-back/?ICMPGN=YOUR_AFFILIATE_ID",
+      "commission": "$50-100 per approved application",
+      "category": "credit-cards"
+    },
+    {
+      "name": "Capital One Quicksilver",
+      "url": "https://www.capitalone.com/credit-cards/quicksilver/?external_id=YOUR_AFFILIATE_ID",
+      "commission": "$50-100 per approved application",
+      "category": "credit-cards"
+    },
+    {
+      "name": "Chase Sapphire Preferred",
+      "url": "https://www.chase.com/personal/credit-cards/sapphire/preferred?CELL=YOUR_AFFILIATE_ID",
+      "commission": "$100-150 per approved application",
+      "category": "credit-cards"
+    }
+  ],
+  "investment_platforms": [
+    {
+      "name": "Robinhood",
+      "url": "https://join.robinhood.com/YOUR_REFERRAL_CODE",
+      "commission": "$20-75 per signup",
+      "category": "investing"
+    },
+    {
+      "name": "Webull",
+      "url": "https://www.webull.com/activity?inviteCode=YOUR_REFERRAL_CODE",
+      "commission": "$20-75 per funded account",
+      "category": "investing"
+    },
+    {
+      "name": "Fidelity",
+      "url": "https://www.fidelity.com/open-account/overview?ccsource=YOUR_AFFILIATE_ID",
+      "commission": "$50-100 per funded account",
+      "category": "investing"
+    },
+    {
+      "name": "M1 Finance",
+      "url": "https://m1.finance/YOUR_REFERRAL_CODE",
+      "commission": "$30-50 per funded account",
+      "category": "investing"
+    },
+    {
+      "name": "Acorns",
+      "url": "https://www.acorns.com/invite/YOUR_REFERRAL_CODE",
+      "commission": "$5-20 per signup",
+      "category": "investing"
+    }
+  ],
+  "budgeting_apps": [
+    {
+      "name": "YNAB (You Need A Budget)",
+      "url": "https://ynab.com/referral/?ref=YOUR_REFERRAL_CODE",
+      "commission": "$6 per referral",
+      "category": "budgeting"
+    },
+    {
+      "name": "Monarch Money",
+      "url": "https://www.monarchmoney.com/referral/YOUR_REFERRAL_CODE",
+      "commission": "$10-20 per subscription",
+      "category": "budgeting"
+    },
+    {
+      "name": "Goodbudget",
+      "url": "https://goodbudget.com/?ref=YOUR_REFERRAL_CODE",
+      "commission": "$5-10 per subscription",
+      "category": "budgeting"
+    }
+  ],
+  "savings_accounts": [
+    {
+      "name": "Marcus by Goldman Sachs",
+      "url": "https://www.marcus.com/us/en/savings/high-yield-savings?cmpid=YOUR_AFFILIATE_ID",
+      "commission": "$20-50 per funded account",
+      "category": "saving"
+    },
+    {
+      "name": "Ally Bank High-Yield Savings",
+      "url": "https://www.ally.com/bank/online-savings-account/?CP=YOUR_AFFILIATE_ID",
+      "commission": "$20-50 per funded account",
+      "category": "saving"
+    },
+    {
+      "name": "Capital One 360 Performance Savings",
+      "url": "https://www.capitalone.com/bank/savings-accounts/online-performance-savings-account/?external_id=YOUR_AFFILIATE_ID",
+      "commission": "$20-40 per funded account",
+      "category": "saving"
+    },
+    {
+      "name": "Wealthfront Cash Account",
+      "url": "https://www.wealthfront.com/c/YOUR_REFERRAL_CODE",
+      "commission": "$25-50 per funded account",
+      "category": "saving"
+    }
+  ],
+  "insurance": [
+    {
+      "name": "Policygenius (Term Life)",
+      "url": "https://www.policygenius.com/?ref=YOUR_AFFILIATE_ID",
+      "commission": "$20-50 per lead",
+      "category": "insurance"
+    },
+    {
+      "name": "Lemonade Insurance",
+      "url": "https://www.lemonade.com/?referral=YOUR_REFERRAL_CODE",
+      "commission": "$10-25 per policy",
+      "category": "insurance"
+    }
+  ],
+  "books": {
+    "rich_dad_poor_dad": {
+      "title": "Rich Dad Poor Dad by Robert Kiyosaki",
+      "url": "https://www.amazon.com/Rich-Dad-Poor-Teach-Middle/dp/1612681131?tag=smartmoneypath-20",
+      "author": "Robert Kiyosaki",
+      "category": "personal-finance"
+    },
+    "psychology_of_money": {
+      "title": "The Psychology of Money by Morgan Housel",
+      "url": "https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681?tag=smartmoneypath-20",
+      "author": "Morgan Housel",
+      "category": "personal-finance"
+    },
+    "i_will_teach_you": {
+      "title": "I Will Teach You to Be Rich by Ramit Sethi",
+      "url": "https://www.amazon.com/Will-Teach-You-Rich-Second/dp/1523505745?tag=smartmoneypath-20",
+      "author": "Ramit Sethi",
+      "category": "personal-finance"
+    },
+    "total_money_makeover": {
+      "title": "The Total Money Makeover by Dave Ramsey",
+      "url": "https://www.amazon.com/Total-Money-Makeover-Classic-Financial/dp/1595555277?tag=smartmoneypath-20",
+      "author": "Dave Ramsey",
+      "category": "personal-finance"
+    },
+    "simple_path_to_wealth": {
+      "title": "The Simple Path to Wealth by JL Collins",
+      "url": "https://www.amazon.com/Simple-Path-Wealth-financial-independence/dp/1533667926?tag=smartmoneypath-20",
+      "author": "JL Collins",
+      "category": "investing"
+    },
+    "millionaire_next_door": {
+      "title": "The Millionaire Next Door by Thomas Stanley",
+      "url": "https://www.amazon.com/Millionaire-Next-Door-Surprising-Americas/dp/1589795474?tag=smartmoneypath-20",
+      "author": "Thomas Stanley",
+      "category": "personal-finance"
+    },
+    "intelligent_investor": {
+      "title": "The Intelligent Investor by Benjamin Graham",
+      "url": "https://www.amazon.com/Intelligent-Investor-Definitive-Investing-Essentials/dp/0060555661?tag=smartmoneypath-20",
+      "author": "Benjamin Graham",
+      "category": "investing"
+    },
+    "random_walk": {
+      "title": "A Random Walk Down Wall Street by Burton Malkiel",
+      "url": "https://www.amazon.com/Random-Walk-Down-Wall-Street/dp/1324002182?tag=smartmoneypath-20",
+      "author": "Burton Malkiel",
+      "category": "investing"
+    },
+    "broke_millennial": {
+      "title": "Broke Millennial by Erin Lowry",
+      "url": "https://www.amazon.com/Broke-Millennial-Scraping-Financial-Together/dp/0735223319?tag=smartmoneypath-20",
+      "author": "Erin Lowry",
+      "category": "personal-finance"
+    },
+    "your_money_or_your_life": {
+      "title": "Your Money or Your Life by Vicki Robin",
+      "url": "https://www.amazon.com/Your-Money-Life-Transforming-Relationship/dp/0143115766?tag=smartmoneypath-20",
+      "author": "Vicki Robin",
+      "category": "financial-independence"
+    },
+    "automatic_millionaire": {
+      "title": "The Automatic Millionaire by David Bach",
+      "url": "https://www.amazon.com/Automatic-Millionaire-Expanded-Updated-Powerful/dp/0451499085?tag=smartmoneypath-20",
+      "author": "David Bach",
+      "category": "personal-finance"
+    },
+    "little_book_common_sense": {
+      "title": "The Little Book of Common Sense Investing by John Bogle",
+      "url": "https://www.amazon.com/Little-Book-Common-Sense-Investing/dp/1119404509?tag=smartmoneypath-20",
+      "author": "John Bogle",
+      "category": "investing"
+    }
+  },
+  "tools": [
+    {
+      "name": "TurboTax",
+      "url": "https://turbotax.intuit.com/?cid=YOUR_AFFILIATE_ID",
+      "commission": "$10-30 per purchase",
+      "category": "tools"
+    },
+    {
+      "name": "Credit Karma",
+      "url": "https://www.creditkarma.com/?ref=YOUR_AFFILIATE_ID",
+      "commission": "$2-5 per signup",
+      "category": "tools"
+    },
+    {
+      "name": "NerdWallet",
+      "url": "https://www.nerdwallet.com/?ref=YOUR_AFFILIATE_ID",
+      "commission": "Varies by product",
+      "category": "tools"
+    }
+  ],
+  "courses": [
+    {
+      "name": "Personal Finance on Udemy",
+      "url": "https://www.udemy.com/topic/personal-finance/?ranMID=YOUR_AFFILIATE_ID",
+      "commission": "15-25% per sale",
+      "category": "courses"
+    },
+    {
+      "name": "Skillshare (2 months free)",
+      "url": "https://www.skillshare.com/r/YOUR_REFERRAL_CODE",
+      "commission": "$7-10 per trial signup",
+      "category": "courses"
+    }
+  ],
+  "services": {
+    "audible": {
+      "name": "Audible",
+      "url": "https://www.amazon.com/dp/B00NB86OYE?tag=smartmoneypath-20",
+      "description": "Get your first audiobook free with Audible"
+    },
+    "kindle_unlimited": {
+      "name": "Kindle Unlimited",
+      "url": "https://www.amazon.com/kindle-dbs/hz/subscribe/ku?tag=smartmoneypath-20",
+      "description": "Read unlimited books with Kindle Unlimited"
+    }
+  }
+}
